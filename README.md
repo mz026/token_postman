@@ -1,3 +1,7 @@
+# WARNING:
+This gem is renamed to [whoru](https://github.com/mz026/whoru) and no longer maintained.
+Please refer to the [new place](https://github.com/mz026/whoru) for updated codes.
+
 # TokenPostman
 
 A Rails plugin handling login stuff in Controller
